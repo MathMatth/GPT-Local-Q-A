@@ -1,0 +1,436 @@
+ 
+ 
+ 
+Crédits  
+ 
+D&D Organized Play : Chris topher  Lindsay  
+D&D Adventurers League Administrators  : Bill Benham, Alan Patrick, Travis Woodall,  
+Lysa  Chen, Claire Hoffman, Greg Marks  
+ 
+Date deffet : 30 Août 2018  
+ 
+Version Française  
+ 
+Traduction : Julien Busson  
+Relecture : Xavier Devenoges, Benoît Tessier  
+ 
+DUNGEONS & DRAGONS, D& D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Players Handbook, Monster Manual, Dungeon Masters Guide,  D&D Adventurers League, all other Wizards 
+of the Coast product names, and their respective logos are trademarks of Wizards of the Co ast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the 
+Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the mater ial or artwork contained herein is prohibited without the 
+express written permission of Wizards of the Coast.  
+2018  Wizards of the Coast LLC, PO Box 707, Renton, WA 98057 -0707, USA. Manufactured by Hasbro SA, Rue Emile -Boéchat 31, 2800 Delémont, CH. Repres ented by Hasbro Europe, 4 The Square,  Stockley 
+Park, Uxbridge, Middlesex, UB11 1ET, UK.  
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only.    
+Le Manuel du Joueur - Adventurers League v8.2    2 
+Ce document a été traduit de langlais, et fait appel à des ressources qui ne sont pas encore disponibles en Français. 
+Lorsque des termes ont été officiellement traduits, ils sont alors employés, sinon le terme en anglais est conservé pour 
+des raisons de consistance.  
+ 
+Bien que les traducteurs aient pris soin de retranscrire le texte original avec précision, la version originale an glaise a 
+précédence en cas de désaccord.  
+ 
+ 
+Ce document est un guide vous permettant de créer 
+et faire progresser un personnage de lAdventurers 
+League . Ces règles sont complétées par la FAQ  de 
+lAdventurers League  (également disponible dans le 
+également disponible dans le D&D Adventurers 
+League  Players et DM Pack  Version Française ). 
+Pour participer à une séance de jeu de la D&D 
+Adventurers League  vous au rez besoin dau moins :  
+ Les Règles de Base de D&D . Ce document PDF est 
+disponible gratuitement sur le site de Wizards of 
+the Coast. Ce document contient toutes les règles de 
+base du jeu.  
+ Une fiche de personnage et une feuille de 
+contrôle.  Vous pouvez utiliser la fiche de 
+personnage D&D 5e qui vous convient. Vous devez 
+également tenir à jour une feuille de cont rôle à la 
+fin de chaque session  de jeu. Vous pouvez trouver 
+ces documents ici : adventurers -league -resources . 
+ Un numéro DCI (OPTIONEL).  Il sagit dun numéro 
+pour le jeu organisé officiel de Wizards of the Coast. 
+Il est possible den obtenir auprès dun  
+organisateur dévénement la première fois que 
+vous jouez ou en ligne sur le site 
+accounts.wizards.com . 
+Vous devrez en premier lieu créer un personnage 
+pour la D&D Adventurers League . Tou s les 
+personnages Adventurers League débutent au niveau 
+1. 
+ 
+Votre personnage de niveau 1 est créé en 
+sélectionnant parmi toutes les races et options de 
+classes présentes dans le Player's Handbook   
+Manuel des joueurs - version française  plus une  autre 
+ressource de la liste ci -dessous (règle  PHB+1 ).
+ Elemental Evil Players Companion  (EEPC), en VO  
+ Sword Coast Adventurers Guide  (SCAG), en VO  
+ Volos Guide to Monsters  (VGM), en VO  
+ Le Guide comp let de Xanathar  (XGE)1 
+ Mordenkainens Tome of Foes  (ToF)2, en VO  
+ 
+Les variantes et règ les optionnelles suivantes sont  
+autorisées lorsque vous créez votre personnage :  
+ Variante de Traits Humains (PHB)  
+ Variantes pour les Demi -Elfes et Tieffelins 
+(SCAG/ToF),  VO uniquement  
+ Option : Human Languages (SCAG)3, VO 
+uniquement  
+ Blessing of Corellon (ToF)3, VO uniquement  
+ 
+NOTE :  Les races de personnage qui confèrent le Vol 
+au 1er niveau, et les options présentées dans dautres 
+ressources que celles listées ci -dessus (c omme le 
+Dungeon Masters Guide  Guide du Maître - version 
+française , les produits Guild Adept, ou le contenu 
+publié dans les différents articles de lUnearthed 
+Arcana) ne sont pas autorisés, sans documentation 
+spécifique à la campagne le permettant (p.ex.  
+certificats, etc).  
+ 
+1XGE inclut aussi le Tortle Package  
+2Chapitres 1 à 5 uniquement  
+3Ces options ne sont pas assujetties à la règle PHB+1  
+ 
+Vous pouvez déterminer les scores de 
+caractéristiques de votre personnage en utilisant 
+lune des deux méthodes suivantes :  
+ Caractéristiques standard (15, 14, 13, 12, 10, 8).  
+ Personnalisation de s valeurs de caractéristiques 
+(présentée dans le PHB ).   
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only.    
+Le Manuel du Joueur - Adventurers League v8.2    3 
+Décrivez votre personnage et choisissez un 
+historique.  
+ Historique.  Choisissez ou créez un historique en 
+utilisant les ressources ci -dessus, ou tout contenu 
+autorisé dans le Adventurers League Content 
+Catalogue (ALCC) . Au cours de vos aventures, vous 
+allez accumuler de la renommée lié e à votre 
+historique qui sera le reflet de votre célébrité (ou de 
+votre infamie).  
+Renommée  Niveau req.  Rang  Titre ( equivalent VO) 
+0 1er 1 Novice (Novice)  
+2 3ème 2 Célèbre (Notorious)  
+10 8ème 3 Vétéran (Seasoned)  
+20 13ème 4 Héroque  (Heroic)  
+30 18ème 5 Parangon (Paragon)  
+  
+ Alignement.  Les personnages mauvais ne sont pas 
+autorisés dans la cadre de la D&D Adventurers League 
+sauf si votre personnage est un membre de lAlliance 
+des Seigneurs  ou du Zhentarim . Ces personnages 
+peuvent être loyal mauvais.  
+ Dieux.  Votre personnage peut vénérer un dieu listé 
+dans le tableau des Déités des Royaumes Oubliés  et 
+des Déités Non -humaines  du Player's Handbook  
+Manuel des joueurs - version française , ou une déité 
+qui se trouve dans lun des suppl éments mentionnés 
+dans la liste de létape 1 & 2 ci -dessus. Les clercs 
+doivent vénérer une déité spécifique, mais ne sont 
+pas limités dans leur choix par les domaines 
+recommandés pour cette déité.  
+ 
+Votre équipement et or de d épart dépendent de votre 
+classe et de votre historique. Vous ne pouvez pas 
+déterminer aléatoirement votre richesse de départ.  
+Babioles.  Vous commencez le jeu avec une babiole de 
+votre choix provenant de la table du chapitre 5 du 
+Player's Handbook   Manuel des joueurs - version 
+française , ou vous pouvez la déterminer 
+aléatoirement.  
+Equipement.  Votre personnage peut acheter ou 
+vendre des composantes de sorts et léquipement 
+provenant dun des suppléments listés dans létape 1 
+& 2 de la création de p ersonnage ci -dessus.  
+ 
+Votre personnage peut appartenir à une faction sil a 
+sélectionné laptitude dhistorique Safe Haven  
+(historique Faction Agent du Sword Coast 
+Adventurers Guide ). 
+ Les membres dune faction reç oivent un insigne 
+permettant de les identifier : une broche, un brassard ou une pièce spéciale. De plus, ils peuvent se 
+reconnaître par dautres moyens, pièces de 
+vêtements, tatouages, poignées de main spécifiques. 
+tre membre dune faction peut également donner 
+des récompenses différentes ou additionnelles, 
+basées sur la renommée du personnage.   
+   
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only.    
+Le Manuel du Joueur - Adventurers League v8.2    4 
+ 
+Pour jouer une aventure, le niveau de votre 
+personnage doit  correspondre à la fourchette de 
+niveaux prescrite de laventure. Si vous jouez 
+laventure dun livre relié , vous pouvez continuer à 
+la jouer, mais si vous jouez une aventure dun autre 
+livre relié et que le niveau de votre personnage 
+dépasse la fourchette de niveaux prescrite de la 
+première aventure, vous ne pourrez pas la 
+reprendre . 
+En complétant des objectifs  ou en passant du temps 
+pour poursuivre les buts fixés par une aventure , 
+les personnages gagnent des récompenses. Notez vos  
+récompenses sur votre feuille de contrôle.  
+ Points de progression.  Pour progresser au niveau 
+suivant, votre personnage doit obtenir un certain 
+nombre de points de progression, en fonction de son 
+palier actuel. Les personnages de lAdventurers 
+League nacc umulent  pas de points dexpérience 
+(PX). Les points de progression s'appliquent 
+immédiatement. Si vous avez suffisamment de points 
+de progression pour passer de niveau, ce passage 
+devient effectif lors du prochain repos long, de la 
+prochaine session ou ave nture  ce qui arrive en 
+premier . 
+ Palier1 . 4 points  
+ Paliers 2 à 4 . 8 points  
+ Points de trésor.  Vous pouvez utiliser des points 
+de trésor pour acquérir des objets  persistants , des 
+objets de la saison jouée, ainsi que des objets 
+magiques débloquées dans les aventures ou les 
+Quêtes de MD. Ces points peuvent être dépensés ou 
+conservés  pour plus tard  ; il ny a pas besoin de les 
+allouer lorsque vous les recevez. Cependant, ils ne 
+peuvent être dépensés que pour  les objets 
+disponibles pour le palier correspondant à laventure 
+jouée, ou, dans le cas dune aventure dun livre relié, 
+le palier associé au n iveau moyen du groupe (Anglais: 
+APL pour Average Party Level)  (mais jamais plus que 
+le palier du personnage). Par exemple, les points de 
+trésor gagnés dans une aventure de palier 1 peuvent 
+uniquement être dépensés pour acquérir des objets 
+disponibles pour des personnages de palier 1, alors 
+que les points de trésor de palier 2 peuvent être dépensés sur tout objet disponible pour des 
+personnages de paliers 1  ou 2. 
+Le coût dun objet dépend de la table des objets 
+magiques dans laquelle il se trouve. Le coût et  la 
+disponibilité dun objet unique lié à une aventure sera 
+fourni dans le ALCC . Une fois quun objet débloqué 
+lors dune aventure est acheté, il nest alors plus 
+disponible  ; vous devez le débloquer de nouveau si 
+vous voulez pouvoir lacquérir une nouvell e fois plus 
+tard.  
+Table dOM  Disponible aux paliers  Coût en points  
+A 1-4 8 
+B 1-4 8 
+C 1-4 8 
+D 2-4 16 
+E 3-4 16 
+F 1-4 16 
+G 2-4 20 
+H 3-4 20 
+I 3-4 24 
+ 
+Votre personnage peut acheter et vendre de 
+léquipement en utilisant les règles disponibles dans 
+le Player's Handbook  Manuel des joueurs - version 
+française . Entre deux sessions , votre personnage 
+peut acheter de léquipement dans les ouvrages listés 
+dans  létape 1 & 2 de la création de personnage ci -
+dessus. Certaines aventures peuvent imposer des 
+limitations sur lachat pendant la partie . 
+Les récompenses et léquipement ne peuvent pas être 
+cédés à un autre personnage, excepté dans les cas 
+suivants :  
+ Vous pouvez prêter  de léquipement ou des objets 
+magiques à un autre personnage présent à la table 
+de jeu. Les objets sont retournés à leur propriétaire 
+à la fin de la session, à moins davoir été consommé 
+(par exemple, une potion).  
+ Les objets magiques permanents peuvent être 
+échangés (voir ci -dessous)  
+ Les personnages peuvent choisir de partager  les 
+coûts associés à des services rendus par des PNJ 
+entre eux durant une aventure.  
+ 
+De la même manière , votre personnage peut acquérir 
+des potions et des parchemins en utilisant les tables 
+ci-dessous. Le coût des parchemins ne comprend pas 
+le coût des composantes éventuelles  que ces 
+dernières soit consommées ou non.  
+  
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only.    
+Le Manuel du Joueur - Adventurers League v8.2    5 
+Potion de  Coût  Potion de   Coût  
+Soins  25 po  Respiration 
+aquatique  100 po  
+Escalade  75 po  Soins supérieurs  500 po  
+Amitié avec les 
+animaux  100 po  Soins suprêmes  5.000 po  
+Soins majeurs  100 po  Invisiblité  5.000 po  
+Niveau du sort  Coût  Niveau du sort  Coût  
+Tour de magie  25 po  3ème 300 po  
+1er 75 po  4ème 500 po  
+2ème 150 po  5ème 1.000 po  
+ 
+En plus de votre fiche de personnage, vous devez  
+utiliser une feuille de contrôle pour garder une trace 
+des récompenses accumulées aventure après 
+aventure.  
+ Numéro de session.  Notez le numéro de la session. 
+Cela vous permet dorganiser vos feuilles de marque 
+au fur et à mesure que vous les accumulez.  
+ Points de progression et de trésor (Advancement 
+and Treasure Checkpoints).  Notez le nombre et le 
+palier des points que vous gagnez à la fin ou entre les 
+sessions..  
+ Périodes dintermède (Downtime).  Votre 
+personnage cumule 5 jours dintermède  pour 
+chaque tra nche de 2 points de progression gagnés. 
+Notez le nombre de jours gagnés ou dépensés à la fin 
+de chaque session (y compris le nombre de jours 
+dépensés pour une activité de long terme, tel quun 
+entraînement). Par exemple, si vous dépensez 10 
+jours pour appr endre la langue Gnome, écrivez se 
+former : langue Gnome (10) dans la section des notes 
+de votre feuille de contrôle. Vous ne payez pas  de 
+train de vie lorsque vous utilisez des jours 
+dintermède.  
+ Objets débloqués. Notez quels objets magiques ou 
+trésors s pécifiques (sil y en a) vous avez débloqué 
+durant la session.  
+ Or. Si votre personnage progresse dun niveau (ou 
+pour un personnage de niveau 20, après chaque 8 
+points de progression gagnés), ajoutez les pièces dor 
+gagnées suivant la table ci -dessous. Ce t argent peut 
+être utilisé ou conservé  en notant vos dépenses 
+normalement.  
+ 
+Niveau gagné  Récompense en po  Train de vie  
+2-4 75 po  Modeste  
+5-10 150 po  Confortable  
+11-16 550 po  Riche  
+17-20 5.500 po  Aristocratique  
+  Renommée.  Un personnage gagne 1 point de 
+renommée  pour chaque tranche de 4 points de 
+progression gagnés.  
+ Notes daventure.  Notez toutes les événements 
+importants qui ont eu lieu durant laventure ou les 
+informations dont vous pourriez avoir besoin plus 
+tard à cet endroit : morts, récompenses spéciales 
+(objets/effets relatifs à lhistoire), objets acquis, 
+passage de niveau  
+ 
+Votre personnage peut effectuer des activités de 
+période dintermède avant, pendant ou après  une 
+session. Vous pouvez utiliser toutes les activités 
+présentées dans le Player's Handbook  Manuel des 
+joueurs - version française  ainsi que celles décrites ci -
+dessous ; dautres activités sont permises si elles sont 
+introduites dans les autres documents de la 
+campag ne : 
+ Période dintermède : Services magiques.  Vous 
+pouvez utiliser 1 jour de période dintermède pour 
+lancer un sort, ou pour quun autre personnage (PJ ou 
+PNJ) le fasse. Les sorts lancés durant une session 
+suivent les règles normales (emplacement de sort , 
+composantes matérielles...) et nentraîne pas de 
+dépense de jours dintermède, tandis que les sorts 
+lancés par des PNJ requièrent habituellement 
+dutiliser des jours de période dintermède ainsi que 
+de lor ou des points de trésor. Vous ne pouvez 
+recevoi r des services magiques que de  personnages 
+présents à votre table de jeu.  
+ Période dintermède : Rattraper son retard.  
+Rattraper son retard est disponible uniquement aux 
+niveaux 4, 10 et 16. En dépensant des jours 
+dintermède suivant la table ci -dessous,  votre 
+personnage progresse au niveau suivant :  
+Niveau actuel  Coût en jours dintermède  
+4ème  25 jours  
+10ème  75 jours  
+16ème  150 jours  
+ 
+ Période dintermède : Copier des sorts.  Vous 
+devez utiliser cette activité pour copier des sorts. 
+Pour chaque jour dintermède dépensé, votre 
+personnage peut passer 8 heures à copier des sorts 
+dans son livre de sort, ou rendre son livre de sort 
+disponible pour que dautres personnages puissent 
+copier son contenu. Les personnages jouant la même 
+aventure peuvent  échanger  des sorts entre eux 
+grce à cette activité. Chaque mage possède son  
+langage  propre pour écrire ses sorts, et, de fait, il ne 
+peut pas bénéficier de loption Travailler ense mble 
+pour cette activité  même si il est assisté par dautres  
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only.    
+Le Manuel du Joueur - Adventurers League v8.2    6 mages. Vous devez effectuer ce genre dactivité en 
+présence du MD.  
+ Période dintermède : changer des objets 
+magiques.  Les objets magiques permanents peuvent 
+être échangé sur la base dun pour  un, les objets 
+devant avoir la même rareté  et appartenir à la 
+même table dobjets magiques  du Dungeon 
+Masters Guide  Guide du Maître - version française . 
+Pour recevoir un objet de cette manière, vous devez 
+être dun palier suffisant  pour pouvoir acquéri r cet 
+objet en utilisant des points de trésor. Les objets qui 
+ne disposent plus de propriétés magiques ne peuvent 
+pas être échangés. Pour réaliser un échange chaque 
+intervenant doit dépenser 15 jours dintermède. Si 
+léchange se fait entre des personnages qui jouent la 
+même aventure, le coût en jours est ignoré. Les 
+certificats ne sont pas requis, mais doivent être 
+échangés ou détruits sil y en a.  
+ En cas de désaccord, le Dungeon Masters Guide  
+Guide du Maître - version française  fixe la rareté dun 
+obje t. La rareté dun objet découvert dans une 
+aventure individuelle est précisée dans cette 
+aventure. Si aucune rareté nest indiquée par 
+laventure, lobjet est considéré comme étant unique.  
+ Une fois léchange terminé, notez sur votre feuille 
+de contrôle à qui vous avez cédé un objet et quel 
+objets ont été échangés.  
+ Préparer une potion de soin (XGE).  Préparer une 
+potion de soins nécessite de posséder du matériel 
+dherboriste.  
+ Créer un parchemin (XGE).  Vous devez connaître 
+ou être capable de préparer un sort avant de linscrire 
+sur un parchemin de sort. Le coût de création sajoute 
+aux coûts des composantes  quelles soient 
+consommées ou non.  
+Lorsquil gagne un niveau, votre personnage évolue et 
+progresse. Lorsque vous avancez dan s votre classe, 
+les règles suivantes sappliquent :  
+ Progression ralentie.  Vous pouvez ralentir la 
+progression de votre personnage. Si vous le faîte, 
+votre personnage gagne des points de progression, 
+de récompense, des jours de période dintermède 
+et de la  renommée  deux fois moins vite. Vous 
+pouvez changer le rythme de progression de votre 
+personnage entre chaque session.  
+ Modifier votre personnage.  Vous pouvez choisir 
+de modifier votre personnage avant de jouer votre 
+première aventure en tant que personnag e de niveau 
+5 (niveaux 1 à 4). Vous pouvez changer nimporte 
+quelle statistique de votre personnage à part son nom. 
+Les aspects non chiffrés de votre personnage, tel que son alignement, son genre, ou ses traits de 
+personnalité peuvent être modifiés entre c haque 
+session  quel que soit son niveau.  
+ Votre personnage conserve toutes les récompenses 
+et léquipement acquis jusque -là. Si vous changez la 
+classe de votre personnage ou son historique, il perd 
+léquipement (ainsi que les gains suite à leur vente, ou 
+les bénéfices associés, tel que des sorts copiés) acquis 
+avec cette classe ou cet historique. De la même 
+manière, si vous changez de faction, vous perdez 
+toute la renommée accumulée auprès de cette faction.  
+ Faire progresser votre personnage.  Votre 
+personnag e progresse en utilisant les options de race 
+et de classe (ainsi que les règles de multiclassage, les 
+dons, les sorts) disponibles dans le cadre de votre 
+choix douvrages PHB+1. Quand vous gagnez un 
+niveau, utilisez la valeur fixe de points de vie  
+indiquée  dans la section de votre classe ; vous ne les 
+déterminez pas aléatoirement.  
+ Progression dans votre faction.  Si vous gagnez un 
+rang dans la faction de votre personnage, cela devient 
+effectif à la fin de la session.  
