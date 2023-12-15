@@ -88,8 +88,8 @@ with st.sidebar:
 
     if st.button("Submit") and uploaded_file is not None:
         with st.spinner(text="Uploading and Processing File..."):
-            raw_file_path = 'C:\\Users\\mathi\\VsCodeRepo\\GptGames\\docGPT-langchain\\gpt_project_v3\\file_cache\\raw_file.pdf'
-            converted_file_path = "C:\\Users\\mathi\\VsCodeRepo\\GptGames\\docGPT-langchain\\gpt_project_v3\\file_cache\\file.txt"
+            raw_file_path = '/workspaces/GPT-Local-Q-A/file_cache/raw_file.pdf'
+            converted_file_path = "/workspaces/GPT-Local-Q-A/file_cache/file.txt"
             if uploaded_file.type == 'application/pdf':
                 # For PDF files, save and convert to text using the PDFConverter class
 
