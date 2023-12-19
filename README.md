@@ -1,4 +1,4 @@
-Comment rajouter un model :
+__Comment rajouter un model__ :
 
 Premierement copier le lien du model sur Huggingface que vous trouverez ici ->  ![!\[Screenshot\](Capture d’écran 2023-12-18 155421.png)](<images/huggingface.png>)
 
