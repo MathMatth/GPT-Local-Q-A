@@ -10,6 +10,8 @@ Dans le fichier streamlit_app_blog.py rajouter un elif avec votre model dans la 
 
 Rajouter votre model dans le bouton -> ![/workspaces/GPT-Local-Q-A/images/Capture d’écran 2023-12-19 140649.png](<images/bouton.png>)
 
+Pout executer l'application, se postionner dans le bon dossier avec "cd dossier" dans le terminal puis executer la commande "streamlit run streamlit_app_blog.py" dans ce meme terminal.
+
 __Enjoy__
 
 
