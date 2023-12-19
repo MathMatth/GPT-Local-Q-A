@@ -70,10 +70,17 @@ def load_llm(llm,load_in_8bit):
         return TxtQA.create_flan_t5_base(load_in_8bit)
     elif llm == LLM_MISTRAL:
         return TxtQA.create_mistral_base(load_in_8bit)
+    elif llm == LLM_BLOOM:
+        return TxtQA.create_bloom_base(load_in_8bit)    
+    elif llm == LLM_FALCON:
+        return TxtQA.create_falcon_base(load_in_8bit)    
+    elif llm == LLM_VICUNA:
+        return TxtQA.create_vicuna_base(load_in_8bit)    
+    elif llm == LLM_GPT2:
+        return TxtQA.create_gpt2_base(load_in_8bit)
     else:
         raise ValueError("Invalid LLM setting")
     
-
 @st.cache_resource
 def load_emb(emb):
     if emb == EMB_INSTRUCTOR_XL:
@@ -90,7 +97,7 @@ st.title("PDF Q&A (Self hosted LLMs)")
 
 with st.sidebar:
     emb = st.radio("**Select Embedding Model**", [EMB_SBERT_MPNET_BASE], index=0)
-    llm = st.radio("**Select LLM Model**", [LLM_FLAN_T5_BASE, LLM_MISTRAL],index=1)
+    llm = st.radio("**Select LLM Model**", [LLM_FLAN_T5_BASE, LLM_MISTRAL, LLM_BLOOM, LLM_FALCON, LLM_VICUNA, LLM_GPT2],index=1)
     load_in_8bit = st.radio("**Load 8 bit**", [True, False],index=1)
     uploaded_file = st.file_uploader("**Upload PDF or TXT**", type=["pdf", "txt"])
 

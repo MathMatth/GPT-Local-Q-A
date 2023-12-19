@@ -46,6 +46,42 @@ class TxtQA:
         )
     
     @classmethod
+    def create_bloom_base(cls, load_in_8bit=False):
+        return pipeline(
+            task="text2text-generation",
+            model = "bigscience/bloom",
+            max_new_tokens=100,
+            model_kwargs={"device_map": "auto", "load_in_8bit": load_in_8bit, "max_length": 512, "temperature": 0.}
+        )
+
+    @classmethod
+    def create_falcon_base(cls, load_in_8bit=False):
+        return pipeline(
+            task="text2text-generation",
+            model = "tiiuae/falcon-7b",
+            max_new_tokens=100,
+            model_kwargs={"device_map": "auto", "load_in_8bit": load_in_8bit, "max_length": 512, "temperature": 0.}
+        )
+
+    @classmethod
+    def create_vicuna_base(cls, load_in_8bit=False):
+        return pipeline(
+            task="text2text-generation",
+            model = "lmsys/vicuna-7b-v1.5",
+            max_new_tokens=100,
+            model_kwargs={"device_map": "auto", "load_in_8bit": load_in_8bit, "max_length": 512, "temperature": 0.}
+        )
+
+    @classmethod
+    def create_gpt2_base(cls, load_in_8bit=False):
+        return pipeline(
+            task="text2text-generation",
+            model = "gpt2",
+            max_new_tokens=100,
+            model_kwargs={"device_map": "auto", "load_in_8bit": load_in_8bit, "max_length": 512, "temperature": 0.}
+        )
+
+    @classmethod
     def create_flan_t5_base(cls, load_in_8bit=False):
         # Wrap it in HF pipeline for use with LangChain
         model="google/flan-t5-base"
