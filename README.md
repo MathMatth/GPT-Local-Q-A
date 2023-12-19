@@ -8,7 +8,7 @@ Dans le fichier Txt_qa.py rajouter une fonction comme celle si comprenant votre 
 
 Dans le fichier streamlit_app_blog.py rajouter un elif avec votre model dans la fonction load_llm -> ![Screenshot](Capture d’écran 2023-12-19 140539.png)
 
-Rajouter votre model dans le bouton -> ![Screenshot](![/workspaces/GPT-Local-Q-A/images/Capture d’écran 2023-12-19 140649.png](<images/Capture d’écran 2023-12-19 140539.png>))
+Rajouter votre model dans le bouton -> ![/workspaces/GPT-Local-Q-A/images/Capture d’écran 2023-12-19 140649.png](<images/Capture d’écran 2023-12-19 140539.png>)
 
 Enjoy
 
